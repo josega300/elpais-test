@@ -8,7 +8,7 @@
 ; and modifying it accordingly
 
 [DB]
-host = 127.0.0.1
-user = 'su usuario'
-pass = 'su clave'
-database = elpais_test
+host = "localhost"
+user = "root"
+pass = "root"
+database = "elpais_test"

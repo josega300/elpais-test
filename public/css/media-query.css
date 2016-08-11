@@ -1,0 +1,6 @@
+@media (max-width: 480px) {
+
+	.row .col-xs-4#edad , .row .col-xs-4#list_edad {
+		display: none;
+	}
+}
